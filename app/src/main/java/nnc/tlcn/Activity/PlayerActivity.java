@@ -214,6 +214,7 @@ public class PlayerActivity extends Activity implements View.OnClickListener {
     protected void onResume() {
         super.onResume();
     }
+    //hihi
 
 
 }
